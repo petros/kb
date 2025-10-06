@@ -32,7 +32,7 @@ This defines the Git settings you want applied automatically.
 
 ### Tell Git to include this config for all repos under that folder
 
-> !NOTE
+> [!NOTE]
 > zsh expands `**` unless quoted — so we must quote the pattern.
 
 ```bash
